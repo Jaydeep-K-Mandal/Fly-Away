@@ -9,7 +9,7 @@
 ## Using the application
 Homepage displays the application name (FlyAway) and two options - Book Flights and Admin Login Access.
 
-<img width="720" alt="flyaway-screenshot-homepage" src="https://raw.githubusercontent.com/Niks4u2/FlyAway/main/Screenshots/LandingPage.PNG">
+<img width="720" alt="flyaway-screenshot-homepage" src="https://raw.githubusercontent.com/Jaydeep-K-Mandal/Fly-Away/main/Screenshots/LandingPage.PNG">
 
 <b>Book Flights</b>  - <br>
 The user enters flight details (date, source, destination, travellers). 
